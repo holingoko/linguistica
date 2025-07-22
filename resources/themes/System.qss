@@ -1,0 +1,94 @@
+QWidget {{
+    font-family: {app_font_family};
+    font-size: {app_font_size}pt;
+    font-weight: {app_font_weight};
+}}
+QTextEdit {{
+    border: 1px solid palette(shadow);
+    font-family: {text_editor_font_family};
+    font-size: {text_editor_font_size}pt;
+    font-weight: {text_editor_font_weight};
+}}
+QLineEdit {{
+    border: 1px solid palette(shadow);
+}}
+QLineEdit:focus, QTextEdit:focus {{
+    border: 1px solid palette(highlight);
+}}
+QSplitter::handle {{
+    image: url(none);
+}}
+Bar {{
+    background-color: palette(dark);
+}}
+Bar[hover=true] {{
+    background-color: palette(dark);
+}}
+Bar[pressed=true] {{
+    background-color: palette(dark);
+}}
+Trough {{
+    background-color: palette(midlight);
+}}
+Trough[hover=true] {{
+    background-color: palette(midlight);
+}}
+Trough[pressed=true] {{
+    background-color: palette(midlight);
+}}
+Frame {{
+    border: 1px solid palette(shadow);
+}}
+Frame:focus {{
+    border: 1px solid palette(highlight);
+}}
+SelectableFrame {{
+    border: 1px solid palette(shadow);
+}}
+SelectableFrame[selected=true] {{
+    border: 1px solid palette(highlight);
+}}
+DictPopup {{
+    color: palette(shadow);
+    selection-color: palette(highlight);
+}}
+DictViewTextEdit {{
+    font-family: {dict_font_family};
+    font-size: {dict_font_size}pt;
+    font-weight: {dict_font_weight};
+}}
+PopupDictViewTextEdit, PopupDictViewTextEdit:focus {{
+    font-family: {dict_font_family};
+    font-size: {dict_font_size}pt;
+    font-weight: {dict_font_weight};
+    border: none;
+}}
+HorizontalLine {{
+    background-color: palette(mid);
+}}
+MessageLabel {{
+    font-family: {app_font_family};
+    font-size: {app_font_size_large}pt;
+    font-weight: {app_font_weight};
+}}
+TabSideBar {{
+    background-color: palette(mid);
+}}
+TabButton {{
+    background-color: palette(mid);
+}}
+TabButton[is_active=true] {{
+    background-color: palette(window);
+}}
+TextButton {{
+    border: 1px solid palette(shadow);
+    background-color: palette(midlight);
+}}
+TextButton[hover=true] {{
+    border: 1px solid palette(highlight);
+    background-color: palette(midlight);
+}}
+TextButton[hover_and_pressed=true] {{
+    border: 1px solid palette(highlight);
+    background-color: palette(light);
+}}

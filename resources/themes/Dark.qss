@@ -1,0 +1,144 @@
+QWidget {{
+    font-family: {app_font_family};
+    font-size: {app_font_size}pt;
+    font-weight: {app_font_weight};
+    color: #eeeeee;
+    background-color: #222222;
+    outline: none;
+}}
+QMenu::item:selected, QMenuBar::item:selected {{
+    background-color: #444444;
+}}
+QAbstractItemView {{
+    outline: none;
+}}
+QPushButton {{
+    border: 1px solid #696969;
+    padding-left: 2;
+    padding-right: 2;
+    padding-top: 1;
+    padding-bottom: 1;
+}}
+QPushButton:default {{
+    border: 1px solid #aaaaaa;
+}}
+QPushButton:hover {{
+    border: 1px solid #aaaaaa;
+}}
+QPushButton:pressed {{
+    background-color: #444444;
+    border: 1px solid #aaaaaa;
+}}
+QComboBox {{
+    border: 1px solid #696969;
+    selection-background-color: #444444;
+    padding-left: 2;
+}}
+QComboBox:on {{
+    border: 1px solid #aaaaaa;
+}}
+QComboBox::drop-down {{
+    background-color: transparent;
+}}
+QComboBox::down-arrow {{
+    image: url(none);
+    border-width: none;
+}}
+QListView::item:selected {{
+    background-color: #444444;
+}}
+QTextEdit {{
+    border: 1px solid #696969;
+    font-family: {text_editor_font_family};
+    font-size: {text_editor_font_size}pt;
+    font-weight: {text_editor_font_weight};
+    selection-color: #000000;
+    selection-background-color: #999999;
+}}
+QLineEdit {{
+    border: 1px solid #696969;
+}}
+QLineEdit:focus, QTextEdit:focus {{
+    border: 1px solid #aaaaaa;
+    selection-color: #000000;
+    selection-background-color: #ffffff;
+}}
+QScrollBar {{
+    width:0px;
+    height:0px;
+}}
+QSplitter::handle {{
+    image: url(none);
+}}
+Bar {{
+    background-color: #a0a0a0;
+}}
+Bar[hover=true] {{
+    background-color: #a0a0a0;
+}}
+Bar[pressed=true] {{
+    background-color: #a0a0a0;
+}}
+Trough {{
+    background-color: #444444;
+}}
+Trough[hover=true] {{
+    background-color: #444444;
+}}
+Trough[pressed=true] {{
+    background-color: #444444;
+}}
+Frame {{
+    border: 1px solid #696969;
+}}
+Frame:focus {{
+    border: 1px solid #aaaaaa;
+}}
+SelectableFrame {{
+    border: 1px solid #696969;
+}}
+SelectableFrame[selected=true] {{
+    border: 1px solid #aaaaaa;
+}}
+DictPopup {{
+    color: #696969;
+    selection-color: #aaaaaa;
+}}
+DictViewTextEdit {{
+    font-family: {dict_font_family};
+    font-size: {dict_font_size}pt;
+    font-weight: {dict_font_weight};
+}}
+PopupDictViewTextEdit, PopupDictViewTextEdit:focus {{
+    font-family: {dict_font_family};
+    font-size: {dict_font_size}pt;
+    font-weight: {dict_font_weight};
+    border: none;
+}}
+HorizontalLine {{
+    background-color: #696969;
+}}
+MessageLabel {{
+    font-family: {app_font_family};
+    font-size: {app_font_size_large}pt;
+    font-weight: {app_font_weight};
+}}
+TabSideBar {{
+    background-color: #333333;
+}}
+TabButton {{
+    background-color: #333333;
+}}
+TabButton[is_active=true] {{
+    background-color: #444444;
+}}
+TextButton {{
+    border: 1px solid #696969;
+}}
+TextButton[hover=true] {{
+    border: 1px solid #aaaaaa;
+}}
+TextButton[hover_and_pressed=true] {{
+    border: 1px solid #aaaaaa;
+    background-color: #444444;
+}}

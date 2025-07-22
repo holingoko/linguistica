@@ -1,0 +1,1296 @@
+msgid ""
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Above"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Above"
+msgstr ""
+
+msgid "Add Below"
+msgstr ""
+
+msgid "Add From Template..."
+msgstr ""
+
+msgid "Add Tag"
+msgstr ""
+
+msgid "All Indexed Tags"
+msgstr ""
+
+msgid "Alternative 1"
+msgstr ""
+
+msgid "Alternative 2"
+msgstr ""
+
+msgid "Always Select"
+msgstr ""
+
+msgid "Always Show Message"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Arabic Example"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatically Save After Idle Interval (s)"
+msgstr ""
+
+msgid "Automatically Save Files"
+msgstr ""
+
+msgid "Bangla"
+msgstr ""
+
+msgid "Bangla Example"
+msgstr ""
+
+msgid "Base Form"
+msgstr ""
+
+msgid "Base Form Hindi"
+msgstr ""
+
+msgid "Base Form Urdu With Diacritics"
+msgstr ""
+
+msgid "Base Form With Long Vowel Marks"
+msgstr ""
+
+msgid "Base Form With Stress Marks"
+msgstr ""
+
+msgid "Behaviour On Drag And Drop File"
+msgstr ""
+
+msgid "Behaviour On New Text File"
+msgstr ""
+
+msgid "Behaviour On Open File"
+msgstr ""
+
+msgid "Below"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Both {0} and {1} are present."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Change Page"
+msgstr ""
+
+msgid "Character"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close All Windows"
+msgstr ""
+
+msgid "Close Text"
+msgstr ""
+
+msgid "Close Window"
+msgstr ""
+
+msgid "Conditional Statements"
+msgstr ""
+
+msgid "Conditional Statements Example"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Automatically"
+msgstr ""
+
+msgid "Copy File Name"
+msgstr ""
+
+msgid "Copy File Path"
+msgstr ""
+
+msgid "Create Dictionary"
+msgstr ""
+
+msgid "Create Dictionary..."
+msgstr ""
+
+msgid "Create Entry"
+msgstr ""
+
+msgid "Create Entry..."
+msgstr ""
+
+msgid "Create Template"
+msgstr ""
+
+msgid "Create Template Example"
+msgstr ""
+
+msgid "Create Template..."
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Default Dictionary"
+msgstr ""
+
+msgid "Default File Directory"
+msgstr ""
+
+msgid "Default Number of Views Per Window"
+msgstr ""
+
+msgid "Definition"
+msgstr ""
+
+msgid "Definitions"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Dialog Window Default Height"
+msgstr ""
+
+msgid "Dialog Window Default Width"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Dictionary Directory"
+msgstr ""
+
+msgid "Dictionary Entry"
+msgstr ""
+
+msgid "Dictionary Settings"
+msgstr ""
+
+msgid "Dictionary Settings..."
+msgstr ""
+
+msgid "Dictionary Template"
+msgstr ""
+
+msgid "Dictionary Template Entry"
+msgstr ""
+
+msgid "Dictionary Window"
+msgstr ""
+
+msgid "Dictionary Window Default Height"
+msgstr ""
+
+msgid "Dictionary Window Default Width"
+msgstr ""
+
+msgid "Dictionary files must end in {0}, but the file {1} already exists. Enter file name as {1} to overwrite, or choose a new name."
+msgstr ""
+
+msgid "Dictionary settings cannot be saved while dictionary entry or template windows are open."
+msgstr ""
+
+msgid "Dictionary {}"
+msgstr ""
+
+msgid "Dictionary:"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Do Not Show Popup If No Matching Entries Found"
+msgstr ""
+
+msgid "Don't show this message again."
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Entry..."
+msgstr ""
+
+msgid "Edit Selected Template..."
+msgstr ""
+
+msgid "Edit Template..."
+msgstr ""
+
+msgid "Enable Logging"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "English Example"
+msgstr ""
+
+msgid "Entry Format:"
+msgstr ""
+
+msgid "Entry Joiner:"
+msgstr ""
+
+msgid "Entry Window Default Height"
+msgstr ""
+
+msgid "Entry Window Default Width"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Escaped Curly Braces"
+msgstr ""
+
+msgid "Escaped Curly Braces Example"
+msgstr ""
+
+msgid "Escaped Ellipsis"
+msgstr ""
+
+msgid "Escaped Ellipsis Example"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Export Dictionary"
+msgstr ""
+
+msgid "Export Dictionary..."
+msgstr ""
+
+msgid "Far Left"
+msgstr ""
+
+msgid "Far Right"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Filter: "
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find / Replace Inactive Window Opacity"
+msgstr ""
+
+msgid "Find / Replace Match Case Default Value"
+msgstr ""
+
+msgid "Find / Replace Wrap Around Default Value"
+msgstr ""
+
+msgid "Find Next"
+msgstr ""
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Find:"
+msgstr ""
+
+msgid "Focus On Text Editor Under Cursor"
+msgstr ""
+
+msgid "Font Family"
+msgstr ""
+
+msgid "Font Size"
+msgstr ""
+
+msgid "Font Weight"
+msgstr ""
+
+msgid "Forms:"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "French Example"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "German Example"
+msgstr ""
+
+msgid "HTML"
+msgstr ""
+
+msgid "HTML Example"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide Popup"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "Hindi Example"
+msgstr ""
+
+msgid "Hiragana"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Import Dictionary"
+msgstr ""
+
+msgid "Import Dictionary..."
+msgstr ""
+
+msgid "Importing the dictionary {} will overwrite an existing dictionary with the same name."
+msgstr ""
+
+msgid "Inches"
+msgstr ""
+
+msgid "Indexed"
+msgstr ""
+
+msgid "Indonesian"
+msgstr ""
+
+msgid "Indonesian Example"
+msgstr ""
+
+msgid "Inflection"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Japanese Example"
+msgstr ""
+
+msgid "Jump To"
+msgstr ""
+
+msgid "Justify"
+msgstr ""
+
+msgid "Kanji"
+msgstr ""
+
+msgid "Katakana"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Language Direction"
+msgstr ""
+
+msgid "Large Font Size"
+msgstr ""
+
+msgid "Latin"
+msgstr ""
+
+msgid "Latin Example"
+msgstr ""
+
+msgid "Latin With Long Vowel Marks"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left Margin"
+msgstr ""
+
+msgid "Left Of Selected Text"
+msgstr ""
+
+msgid "Left To Right"
+msgstr ""
+
+msgid "Length Unit"
+msgstr ""
+
+msgid "Line Down"
+msgstr ""
+
+msgid "Line Up"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Lock All Texts"
+msgstr ""
+
+msgid "Lock Text"
+msgstr ""
+
+msgid "Logging Directory"
+msgstr ""
+
+msgid "Manage Dictionaries..."
+msgstr ""
+
+msgid "Mandarin Chinese"
+msgstr ""
+
+msgid "Mandarin Chinese Example"
+msgstr ""
+
+msgid "Match Case"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Millimeters"
+msgstr ""
+
+msgid "Most Recently Closed"
+msgstr ""
+
+msgid "Most Recently Closed Window Time Tolerance (s)"
+msgstr ""
+
+msgid "Move Down"
+msgstr ""
+
+msgid "Move Popup Backward"
+msgstr ""
+
+msgid "Move Popup Forward"
+msgstr ""
+
+msgid "Move Text Down"
+msgstr ""
+
+msgid "Move Text Left"
+msgstr ""
+
+msgid "Move Text Right"
+msgstr ""
+
+msgid "Move Text Up"
+msgstr ""
+
+msgid "Move To Bottom"
+msgstr ""
+
+msgid "Move To Top"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Multiple tags cannot have the same name."
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New Text"
+msgstr ""
+
+msgid "New Text Editor"
+msgstr ""
+
+msgid "New Text Window"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "Next Form"
+msgstr ""
+
+msgid "Next Tag Value"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No action was performed because no text editor is selected."
+msgstr ""
+
+msgid "No dictionary is selected."
+msgstr ""
+
+msgid "No entry is selected."
+msgstr ""
+
+msgid "No matching entries found."
+msgstr ""
+
+msgid "No template is selected."
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Number Of Look Ahead Lines"
+msgstr ""
+
+msgid "Number Of Recents"
+msgstr ""
+
+msgid "Number Of Spaces Per Tab"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "On Click"
+msgstr ""
+
+msgid "On Double Click"
+msgstr ""
+
+msgid "On Escape Key"
+msgstr ""
+
+msgid "On Hover Over"
+msgstr ""
+
+msgid "On Move Popup Shortcut Keys, Move By"
+msgstr ""
+
+msgid "On Move Popup Shortcut Keys, Move Cursor Also"
+msgstr ""
+
+msgid "One or more dictionaries could not be automatically copied into the new dictionary directory. Please copy any missing dictionaries from the old dictionary directory manually."
+msgstr ""
+
+msgid "Only Show Exact Matches"
+msgstr ""
+
+msgid "Only {} is present."
+msgstr ""
+
+msgid "Open Recent Text"
+msgstr ""
+
+msgid "Open Recent Window"
+msgstr ""
+
+msgid "Open Text"
+msgstr ""
+
+msgid "Open Text..."
+msgstr ""
+
+msgid "Page Down"
+msgstr ""
+
+msgid "Page Up"
+msgstr ""
+
+msgid "Part Of Speech"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Pinyin"
+msgstr ""
+
+msgid "Popup Blocks Clicks"
+msgstr ""
+
+msgid "Popup Direction"
+msgstr ""
+
+msgid "Popup Height"
+msgstr ""
+
+msgid "Popup Hover Delay (ms)"
+msgstr ""
+
+msgid "Popup Radius"
+msgstr ""
+
+msgid "Popup Tail Height"
+msgstr ""
+
+msgid "Popup Tail Width"
+msgstr ""
+
+msgid "Popup Width"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Portuguese Example"
+msgstr ""
+
+msgid "Preview:"
+msgstr ""
+
+msgid "Previous Form"
+msgstr ""
+
+msgid "Previous Tag Value"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Remember Window Geometry"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Rename Text..."
+msgstr ""
+
+msgid "Repeated Action Initial Delay (ms)"
+msgstr ""
+
+msgid "Repeated Action Interval (ms)"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace All"
+msgstr ""
+
+msgid "Replace Next"
+msgstr ""
+
+msgid "Replace Previous"
+msgstr ""
+
+msgid "Replace:"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right Margin"
+msgstr ""
+
+msgid "Right Of Selected Text"
+msgstr ""
+
+msgid "Right To Left"
+msgstr ""
+
+msgid "Right To Left Language Example"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Russian Example"
+msgstr ""
+
+msgid "Russian With Stress Marks"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save All Texts"
+msgstr ""
+
+msgid "Save And Close"
+msgstr ""
+
+msgid "Save And Switch"
+msgstr ""
+
+msgid "Save Text"
+msgstr ""
+
+msgid "Save Text As"
+msgstr ""
+
+msgid "Save Text As..."
+msgstr ""
+
+msgid "Save Window"
+msgstr ""
+
+msgid "Scale Non-Text Sizes By Device Pixel Ratio"
+msgstr ""
+
+msgid "Scroll Trough Behavior On Press"
+msgstr ""
+
+msgid "Scroll Trough Thickness"
+msgstr ""
+
+msgid "Scrollbar Minimum Length Relative To Thickness"
+msgstr ""
+
+msgid "Scrollbar Opacity When Hovered Over"
+msgstr ""
+
+msgid "Scrollbar Opacity When Inactive"
+msgstr ""
+
+msgid "Scrollbar Opacity When Pressed"
+msgstr ""
+
+msgid "Scrollbar Trough Opacity When Hovered Over"
+msgstr ""
+
+msgid "Scrollbar Trough Opacity When Inactive"
+msgstr ""
+
+msgid "Scrollbar Trough Opacity When Pressed"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Dictionary..."
+msgstr ""
+
+msgid "Select Directory"
+msgstr ""
+
+msgid "Select Template..."
+msgstr ""
+
+msgid "Set Entry Format"
+msgstr ""
+
+msgid "Set Tag Values Format"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Window Default Height"
+msgstr ""
+
+msgid "Settings Window Default Width"
+msgstr ""
+
+msgid "Settings..."
+msgstr ""
+
+msgid "Short Entry Length"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show File Name As Full Path"
+msgstr ""
+
+msgid "Show File Name With Extension"
+msgstr ""
+
+msgid "Show Popup"
+msgstr ""
+
+msgid "Show Popup Without Hover Delay On Click"
+msgstr ""
+
+msgid "Show Previews For Entries"
+msgstr ""
+
+msgid "Show Scrollbars"
+msgstr ""
+
+msgid "Side On Which To Open Existing Texts"
+msgstr ""
+
+msgid "Side On Which To Open New Texts"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Simple Example"
+msgstr ""
+
+msgid "Simplified"
+msgstr ""
+
+msgid "Source Code"
+msgstr ""
+
+msgid "Space Around Widgets"
+msgstr ""
+
+msgid "Space Between Buttons"
+msgstr ""
+
+msgid "Space Between Rows"
+msgstr ""
+
+msgid "Space Between Widgets"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Spanish Example"
+msgstr ""
+
+msgid "Split View Orientation"
+msgstr ""
+
+msgid "Splitter Handle Width"
+msgstr ""
+
+msgid "Stacked Window Offset"
+msgstr ""
+
+msgid "Stem:"
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "Sync Vertical Scrolling"
+msgstr ""
+
+msgid "Sync Zooming"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Tag 1"
+msgstr ""
+
+msgid "Tag 2"
+msgstr ""
+
+msgid "Tag 3"
+msgstr ""
+
+msgid "Tag Values Format"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Template Entry Window Default Height"
+msgstr ""
+
+msgid "Template Entry Window Default Width"
+msgstr ""
+
+msgid "Template Window Default Height"
+msgstr ""
+
+msgid "Template Window Default Width"
+msgstr ""
+
+msgid "Test:"
+msgstr ""
+
+msgid "Text Alignment"
+msgstr ""
+
+msgid "Text Editor"
+msgstr ""
+
+msgid "Text Editor Window Default Height"
+msgstr ""
+
+msgid "Text Editor Window Default Width Per View"
+msgstr ""
+
+msgid "The dictionary directory has been changed. Existing dictionaries will no longer be visible to the application unless they are moved into the new directory."
+msgstr ""
+
+msgid "The dictionary entry has unsaved changes that will be lost if the window is closed."
+msgstr ""
+
+msgid "The dictionary has no indexed tags, so the popup window for this dictionary will never have any matching entries."
+msgstr ""
+
+msgid "The dictionary must have at least one tag."
+msgstr ""
+
+msgid "The dictionary template has unsaved changes that will be lost if the window is closed."
+msgstr ""
+
+msgid "The dictionary was created in a directory other than the dictionary directory and so will not be visible to the application. The dictionary directory can be changed via settings."
+msgstr ""
+
+msgid "The dictionary {} cannot be overwritten because its database file is being used by some program."
+msgstr ""
+
+msgid "The dictionary {} has unsaved changes that will be lost if the window is closed."
+msgstr ""
+
+msgid "The dictionary {} has unsaved changes that will be lost when switching to another dictionary."
+msgstr ""
+
+msgid "The dictionary {} was successfully imported."
+msgstr ""
+
+msgid "The file {} cannot be edited because it is locked."
+msgstr ""
+
+msgid "The file {} cannot be opened because it does not exist."
+msgstr ""
+
+msgid "The file {} has been modified outside of the current text editor. Should the file be reloaded?"
+msgstr ""
+
+msgid "The file {} has been modified outside of the current text editor. Should the file be reloaded? Note that there are unsaved changes that will be overwritten if the file is reloaded."
+msgstr ""
+
+msgid "The file {} is about to be closed without saving."
+msgstr ""
+
+msgid "The file {} is not a dictionary."
+msgstr ""
+
+msgid "The file {} is not a text file or a dictionary."
+msgstr ""
+
+msgid "The files {} are about to be closed without saving."
+msgstr ""
+
+msgid "The language {} could not be found. The application language has been reset to the default."
+msgstr ""
+
+msgid "The language {} is missing one or more translations, so some text in the application may not be properly translated."
+msgstr ""
+
+msgid "The tag name {} is invalid. Tag names may only contain characters, numbers, spaces, and underscores."
+msgstr ""
+
+msgid "The tag names {} are invalid. Tag names may only contain characters, numbers, spaces, and underscores."
+msgstr ""
+
+msgid "The tag values format string for the tag {} is empty. Expressions containing this tag will be empty even when there are values for this tag."
+msgstr ""
+
+msgid "The tag values format string for the tag {} is not set up to handle an arbitrary number of values. Expressions containing this tag may be empty even when tag values for this tag are present."
+msgstr ""
+
+msgid "The tag values format strings for the tags {} are empty. Expressions containing these tags will be empty even when there are values for these tags."
+msgstr ""
+
+msgid "The tag values format strings for the tags {} are not set up to handle an arbitrary number of values. Expressions containing these tags may be empty even when tag values for these tags are present."
+msgstr ""
+
+msgid "The tag {} is about to be permanently deleted and will be removed from all entries."
+msgstr ""
+
+msgid "The tag {} is in the entry format string but not in the dictionary tag list. Expressions containing this tag will always be empty."
+msgstr ""
+
+msgid "The tags {} are about to be permanently deleted and will be removed from all entries."
+msgstr ""
+
+msgid "The tags {} are in the entry format string but not in the dictionary tag list. Expressions containing these tags will always be empty."
+msgstr ""
+
+msgid "The template will be permanently deleted."
+msgstr ""
+
+msgid "The text {} was not found."
+msgstr ""
+
+msgid "The theme {} could not be applied because it has an invalid style sheet. The application theme has been reset to the default."
+msgstr ""
+
+msgid "The theme {} could not be found. The application theme has been reset to the default."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "This tag is bold."
+msgstr ""
+
+msgid "This tag is italic."
+msgstr ""
+
+msgid "This tag is stylish."
+msgstr ""
+
+msgid "This tag is surrounded by escaped curly braces."
+msgstr ""
+
+msgid "Top Margin"
+msgstr ""
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unlock All Texts"
+msgstr ""
+
+msgid "Unlock Text"
+msgstr ""
+
+msgid "Untitled {}.txt"
+msgstr ""
+
+msgid "Urdu"
+msgstr ""
+
+msgid "Urdu Example"
+msgstr ""
+
+msgid "Use Spaces For Tab"
+msgstr ""
+
+msgid "User Added Languages Directory"
+msgstr ""
+
+msgid "User Added Themes Directory"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "When Leaving Text Editor"
+msgstr ""
+
+msgid "Window On Startup"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Wrap Around"
+msgstr ""
+
+msgid "Wrap Long Lines"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Zhuyin"
+msgstr ""
+
+msgid "Zoom Default"
+msgstr ""
+
+msgid "Zoom Factor"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid "\"{}\""
+msgstr ""
+
+msgid "ablative plural"
+msgstr ""
+
+msgid "ablative singular"
+msgstr ""
+
+msgid "accusative plural"
+msgstr ""
+
+msgid "accusative singular"
+msgstr ""
+
+msgid "dative plural"
+msgstr ""
+
+msgid "dative singular"
+msgstr ""
+
+msgid "direct plural"
+msgstr ""
+
+msgid "direct singular"
+msgstr ""
+
+msgid "genitive plural"
+msgstr ""
+
+msgid "genitive singular"
+msgstr ""
+
+msgid "in."
+msgstr ""
+
+msgid "instrumental plural"
+msgstr ""
+
+msgid "instrumental singular"
+msgstr ""
+
+msgid "masculine noun"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "neuter noun"
+msgstr ""
+
+msgid "nominative plural"
+msgstr ""
+
+msgid "nominative singular"
+msgstr ""
+
+msgid "noun"
+msgstr ""
+
+msgid "oblique plural"
+msgstr ""
+
+msgid "oblique singular"
+msgstr ""
+
+msgid "plural"
+msgstr ""
+
+msgid "prepositional plural"
+msgstr ""
+
+msgid "prepositional singular"
+msgstr ""
+
+msgid "singular"
+msgstr ""
+
+msgid "value 1"
+msgstr ""
+
+msgid "value 2"
+msgstr ""
+
+msgid "value 3"
+msgstr ""
+
+msgid "value 4"
+msgstr ""
+
+msgid "vocative plural"
+msgstr ""
+
+msgid "vocative singular"
+msgstr ""
+
+msgid "{0} ({1}): "
+msgstr ""
+
+msgid "{0} of <b>{1}</b> ({2}):"
+msgstr ""
+
+msgid "{0} of <b>{1}</b>:"
+msgstr ""
+
+msgid "{0}: \"{1}\""
+msgstr ""
+
+msgid "{0}: {1}"
+msgstr ""
+
+msgid "{}"
+msgstr ""
+
+msgid "{} "
+msgstr ""
+
+msgid "{}..."
+msgstr ""
+
+msgid "{}: "
+msgstr ""
+
+msgid "{}|{{} and {}}|{{},... {}, and {}}"
+msgstr ""
+
+msgid "Language Direction (translate as either -> for left to right or <- for right to left)"
+msgstr ""
+

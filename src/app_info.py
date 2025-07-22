@@ -1,0 +1,6 @@
+name = "Linguistica"
+author = "Holingoko"
+version = "1.0.0"
+github = "https://github.com/holingoko/linguistica"
+db_ext = ".db"
+zip_ext = ".zip"

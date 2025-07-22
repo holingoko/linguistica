@@ -1,0 +1,4 @@
+black
+imageio
+nuitka
+pyside6
