@@ -67,8 +67,6 @@ def run():
     ):
         dict_window.DictWindow().show()
 
-    # window.hide()
-
     from src import examples
 
     # examples.create_entry_japanese()
