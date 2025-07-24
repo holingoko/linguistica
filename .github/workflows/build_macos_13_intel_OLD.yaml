@@ -39,7 +39,8 @@ jobs:
 
       - name: Build Installer
         run: |
-          hdiutil create -volname WhatYouWantTheDiskToBeNamed -srcfolder "/Users/nellanamiloh/Desktop/temp" -ov -format UDBZ name.dmg
+          dmgbuild -s mac_os/settings.py -D app=build/Linguistica.app "Linguistica Installer" Lingustica_Installer.dmg
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
