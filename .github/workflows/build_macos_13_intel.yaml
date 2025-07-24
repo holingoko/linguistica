@@ -42,6 +42,7 @@ jobs:
           mv mac_os/dmg_source_folder build/dmg_source_folder
           mv build/Linguistica.app build/dmg_source_folder/Linguistica.app
           mac_os/create-dmg/create-dmg --icon Linguistica.app 64 96 --icon Applications 192 96 --icon-size 64 --no-internet-enable --text-size 14 --window-size 343 256 build/Linguistica_Installer.dmg build/dmg_source_folder
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
