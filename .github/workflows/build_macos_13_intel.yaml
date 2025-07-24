@@ -39,7 +39,8 @@ jobs:
 
       - name: Build Installer
         run: |
-          hdiutil create -volname WhatYouWantTheDiskToBeNamed -srcfolder "/Users/nellanamiloh/Desktop/temp" -ov -format UDBZ name.dmg
+          mv mac_os/dmg_source_folder build/dmg_source_folder
+          macos/create-dmg/create-dmg --icon Linguistica.app 64 96 --icon Applications 192 96 --icon-size 64 --no-internet-enable --text-size 14 --window-size 343 256 build/Linguistica_Installer.dmg /Users/nellanamiloh/Desktop/outer/temp
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
