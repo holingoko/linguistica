@@ -87,8 +87,6 @@ def run():
     # actions.CreateDictionary.on_action()
     app.exec()
 
-    # db.close()
-
 
 if settings.app_enable_logging:
     log(run)
