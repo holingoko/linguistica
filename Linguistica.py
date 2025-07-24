@@ -74,13 +74,6 @@ def run():
     # examples.create_entry_japanese()
     # examples.create_template_latin()
 
-    # settings.dict_default = "English Example"
-    #
-    # from src import dict_window
-    #
-    # dict_window_ = dict_window.DictWindow()
-    #
-    # dict_window_.show()
     from src import actions
 
     # actions.Settings.on_action()
