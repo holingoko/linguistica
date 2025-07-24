@@ -1,4 +1,4 @@
-name: Build Windows
+name: Build Windows OLD
 
 on:
   workflow_dispatch:
@@ -37,17 +37,13 @@ jobs:
           include-data-dir: resources=resources
           windows-console-mode: disable
           windows-icon-from-ico: resources/images/icon.png
-
-      - name: Build Installer
-        run: |
-          iscc.exe windows/build_windows_installer.iss
-
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ${{ runner.os }} Build
           path: |
             build/*.exe
+            build/*.bin
+            build/*.app/**/*
             build/*.dist/**/*
-            windows/Output/*.exe
           include-hidden-files: true

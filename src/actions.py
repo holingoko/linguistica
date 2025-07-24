@@ -1,6 +1,7 @@
 import os
 
 from src import app
+from src import app_info
 from src import dict_database_file
 from src import dict_entry_window
 from src import dict_settings_window

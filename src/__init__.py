@@ -9,6 +9,15 @@ class Application(QApplication):
     mouse_event_widget = None
 
     def eventFilter(self, watched, event):
+        if (
+            isinstance(watched, QApplication)
+            and event.type() == QEvent.Type.Quit
+        ):
+            from src import actions
+
+            QTimer.singleShot(
+                0, lambda: actions.CloseAllWindows.action().trigger()
+            )
         if self.mouse_event_widget is not None and isinstance(
             watched,
             QWindow,

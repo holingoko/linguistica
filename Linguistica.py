@@ -88,7 +88,6 @@ def run():
     app.exec()
 
     # db.close()
-    # test
 
 
 if settings.app_enable_logging:

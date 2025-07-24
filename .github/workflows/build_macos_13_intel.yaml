@@ -1,4 +1,4 @@
-name: Build Windows
+name: Build Mac OS 13 (Intel)
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ jobs:
   build:
     strategy:
       matrix:
-        os: [windows-latest]
+        os: [macos-13]
 
     runs-on: ${{ matrix.os }}
 
@@ -35,19 +35,17 @@ jobs:
           mode: app
           enable-plugins: pyside6
           include-data-dir: resources=resources
-          windows-console-mode: disable
-          windows-icon-from-ico: resources/images/icon.png
+          macos-app-icon: resources/images/icon.png
 
       - name: Build Installer
         run: |
-          iscc.exe windows/build_windows_installer.iss
+          dmgbuild -s mac_os/settings.py -D app=build/Linguistica.app "Linguistica Installer" Lingustica_Installer.dmg
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ${{ runner.os }} Build
           path: |
-            build/*.exe
-            build/*.dist/**/*
-            windows/Output/*.exe
+            build/*.app/**/*
+            ./*.dmg
           include-hidden-files: true

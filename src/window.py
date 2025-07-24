@@ -120,10 +120,10 @@ class Window(QWidget):
             self.screen().availableVirtualGeometry().getRect()
         )
         width, height = self.width(), self.height()
-        if prev_window.width() == width and prev_window.height() == height:
+        if self.__class__ == prev_window.__class__:
             offset = int(round(settings.app_stacked_window_offset * self.dpi))
             x = prev_window.x() + offset
-            y = prev_window.y() + offset
+            y = prev_window.y() + offset + title_bar_height
             max_x = screen_width - width
             max_y = screen_height - height
             if x > max_x:
@@ -131,16 +131,19 @@ class Window(QWidget):
                 y = offset + title_bar_height // 2
             if y > max_y:
                 y = offset + title_bar_height // 2
+            x = max(x, screen_x)
+            y = max(y, screen_y)
             self.setGeometry(x, y, width, height)
         else:
             prev_center_x, prev_center_y = prev_window.center
             self_center_x, self_center_y = self.center
             shift_x = prev_center_x - self_center_x
             shift_y = prev_center_y - self_center_y
-            self.move(self.x() + shift_x, self.y() + shift_y)
-        x = max(self.x(), screen_x)
-        y = max(self.y(), screen_y)
-        self.move(x, y)
+            x = self.x() + shift_x
+            y = self.y() + shift_y
+            x = max(x, screen_x)
+            y = max(y, screen_y)
+            self.move(x, y)
 
     def move_to_center(self):
         (
