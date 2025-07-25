@@ -1,3 +1,13 @@
+## About
+Holingoko is a tool for language learners and translators.
+### Key Features:
+![screenshot of dictionary popup](/website/screenshot.png)
+Look up words while reading text.
+![screenshot of dictionary popup](/website/screenshot.png)
+Create dictionaries with custom formatting.
+![screenshot of dictionary popup](/website/screenshot.png)
+Synchronize scrolling for parallel text translation.
+
 ## Download:
 https://holingoko.github.io/linguistica/
 ## Build From Source:
@@ -25,8 +35,7 @@ Language translation (.po) files are located under:
 
 https://github.com/holingoko/linguistica/resources/languages
 
-Please feel free to create pull requests to add new language translations to 
-this directory.
+Pull requests to add new language translations to the above directory are welcome.
 
 Users can also add translations for additional languages without having to 
 modify the source code of the application by moving language translation files 
@@ -42,7 +51,7 @@ Theme (Qt style sheet, .qss) files are located under:
 
 https://github.com/holingoko/linguistica/resources/themes
 
-Please feel free to create pull requests to add new themes to this directory.
+Pull requests to add new themes to the above directory are welcome.
 
 Users can also add new themes without having to modify the source code of the 
 application by moving theme files to the directory set via:
@@ -57,4 +66,5 @@ theme-specified font.
 ## Report Issue:
 Aa
 ## Donate:
-Aa
+- Bitcoin: ThisIsNotARealAddress
+- Ethereum: ThisIsNotARealAddress
