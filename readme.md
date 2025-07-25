@@ -1,5 +1,5 @@
-... Holingoko is an application for language learners and translators.
-## <a href="http://www.holingoko.github.io/linguistica.com/pages/download">Download Application</a>
+## Holingoko is a tool for language learners and translators:
+http://www.holingoko.github.io/linguistica.com
 ## Build From Source:
 Instructions below assume git and python (version >= 3.12) are installed.
 ### Windows:
@@ -32,7 +32,7 @@ Users can also add translations for additional languages without having to
 modify the source code of the application by moving language translation files 
 to the directory set via:
 
-Settings... > Application > User Added Languages Directory
+Settings... > Application > User-Added Languages Directory
 
 Note that {} in translations indicates a word or phrase will be substituted in 
 at runtime, and numbers within curly braces {0}, {1}, etc. indicate order of 
@@ -41,6 +41,13 @@ substitutions. Order will likely need to be reversed for right-to-left languages
 Theme (Qt style sheet, .qss) files are located under:
 
 https://github.com/holingoko/linguistica/resources/themes
+
+Please feel free to create pull requests to add new themes to this directory.
+
+Users can also add new themes without having to modify the source code of the 
+application by moving theme files to the directory set via:
+
+Settings... > Application > User-Added Themes Directory
 
 Note that these are not normal Qt style sheets as they have been set up as 
 python format strings to allow the user to change the font independent of the 

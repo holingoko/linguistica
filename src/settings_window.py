@@ -447,7 +447,7 @@ class ApplicationTab(Tab):
                 (
                     settings_widgets.Bool,
                     "app_scale_sizes_by_device_pixel_ratio",
-                    lambda: tr("Scale Non-Text Sizes By Device Pixel Ratio"),
+                    lambda: tr("Scale Sizes By Device Pixel Ratio"),
                 ),
                 (
                     settings_widgets.PositiveDouble,
@@ -527,12 +527,12 @@ class ApplicationTab(Tab):
                 (
                     settings_widgets.FileDirectory,
                     "app_user_added_languages_dir",
-                    lambda: tr("User Added Languages Directory"),
+                    lambda: tr("User-Added Languages Directory"),
                 ),
                 (
                     settings_widgets.FileDirectory,
                     "app_user_added_themes_dir",
-                    lambda: tr("User Added Themes Directory"),
+                    lambda: tr("User-Added Themes Directory"),
                 ),
             )
         ]
