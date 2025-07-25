@@ -1,13 +1,6 @@
 ## About
 Holingoko is a tool for language learners and translators.
-### Key Features:
 ![screenshot of dictionary popup](/website/screenshot.png)
-Look up words while reading text.
-![screenshot of dictionary popup](/website/screenshot.png)
-Create dictionaries with custom formatting.
-![screenshot of dictionary popup](/website/screenshot.png)
-Synchronize scrolling for parallel text translation.
-
 ## Download:
 https://holingoko.github.io/linguistica/
 ## Build From Source:
