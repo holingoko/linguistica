@@ -775,8 +775,8 @@ msgstr "Save Text As..."
 msgid "Save Window"
 msgstr "Save Window"
 
-msgid "Scale Non-Text Sizes By Device Pixel Ratio"
-msgstr "Scale Non-Text Sizes By Device Pixel Ratio"
+msgid "Scale Sizes By Device Pixel Ratio"
+msgstr "Scale Sizes By Device Pixel Ratio"
 
 msgid "Scroll Trough Behavior On Press"
 msgstr "Scroll Trough Behavior On Press"
@@ -1114,11 +1114,11 @@ msgstr "Urdu Example"
 msgid "Use Spaces For Tab"
 msgstr "Use Spaces For Tab"
 
-msgid "User Added Languages Directory"
-msgstr "User Added Languages Directory"
+msgid "User-Added Languages Directory"
+msgstr "User-Added Languages Directory"
 
-msgid "User Added Themes Directory"
-msgstr "User Added Themes Directory"
+msgid "User-Added Themes Directory"
+msgstr "User-Added Themes Directory"
 
 msgid "Version"
 msgstr "Version"
