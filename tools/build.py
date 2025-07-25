@@ -43,4 +43,4 @@ command = [
     f"--windows-icon-from-ico={icon_path}",
 ]
 print(f"\n{" ".join(command)}\n")
-subprocess.check_output(command, cwd=out_dir)
+# subprocess.check_output(command, cwd=out_dir)
