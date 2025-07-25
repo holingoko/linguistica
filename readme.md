@@ -1,4 +1,4 @@
-## Holingoko is a tool for language learners and translators:
+## Download:
 https://holingoko.github.io/linguistica/
 ## Build From Source:
 Instructions below assume git and python (version >= 3.12) are installed.
@@ -55,4 +55,6 @@ style. It is recommended to leave the font substitution lines unchanged.
 Otherwise, font choices made by the user in settings will be overridden by the 
 theme-specified font.
 ## Report Issue:
+Aa
+## Donate:
 Aa
