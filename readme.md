@@ -54,3 +54,5 @@ python format strings to allow the user to change the font independent of the
 style. It is recommended to leave the font substitution lines unchanged.
 Otherwise, font choices made by the user in settings will be overridden by the 
 theme-specified font.
+## Report Issue:
+Aa

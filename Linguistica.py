@@ -11,8 +11,8 @@ from src.log import log
 
 from src import state
 
-settings.reset()  #!!!
-state.reset()  #!!!
+# settings.reset()  #!!!
+# state.reset()  #!!!
 
 settings.message_class_to_choice = {"UnsavedFilesWarningMessage": 0}  # !!!
 # settings.dict_popup_show_on = settings.DictPopupShowOn.CLICK
@@ -33,6 +33,16 @@ settings.app_enable_logging = True
 #     settings.OpenFileBehavior.REPLACE
 # )
 # settings.text_editor_show_file_name_full_path = True
+
+from src import icons
+
+icons.generate_app_icon()
+
+settings.text_editor_font_family = "Cardo"
+settings.text_editor_font_size = 12
+
+settings.dict_font_family = "Cardo"
+settings.dict_font_size = 9
 
 
 def run():
@@ -76,6 +86,7 @@ def run():
 
     # actions.Settings.on_action()
     # actions.CreateDictionary.on_action()
+
     app.exec()
 
 
@@ -91,4 +102,4 @@ if not system.running_built_app:
     import shutil
 
     shutil.rmtree(settings.app_logging_dir, ignore_errors=True)  # !!!
-    shutil.rmtree(settings.dict_dir, ignore_errors=True)  # !!!
+    # shutil.rmtree(settings.dict_dir, ignore_errors=True)  # !!!
