@@ -1,4 +1,4 @@
-name: Build Mac OS 13 (Intel)
+name: Build Mac OS 13 (Intel) OLD
 
 on:
   workflow_dispatch:
@@ -39,14 +39,13 @@ jobs:
 
       - name: Build Installer
         run: |
-          mkdir build/dmg_source_folder
-          mv build/Linguistica.app build/dmg_source_folder/Linguistica.app
-          mac_os/create-dmg/create-dmg --icon Linguistica.app 64 96 --app-drop-link 192 96 --icon-size 64 --no-internet-enable --text-size 14 --window-size 343 256 build/Linguistica_Installer.dmg build/dmg_source_folder
+          dmgbuild -s mac_os/settings.py -D app=build/Linguistica.app "Linguistica Installer" Lingustica_Installer.dmg
+
       - name: Upload Artifacts
         uses: actions/upload-artifact@v4
         with:
           name: ${{ runner.os }} Build
           path: |
-            build/dmg_source_folder/*.app/**/*
-            build/*.dmg
+            build/*.app/**/*
+            ./*.dmg
           include-hidden-files: true

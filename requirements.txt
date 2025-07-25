@@ -2,4 +2,3 @@ black
 imageio
 nuitka
 pyside6
-dmgbuild; sys_platform == 'darwin'
