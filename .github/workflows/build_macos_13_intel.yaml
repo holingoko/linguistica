@@ -50,6 +50,6 @@ jobs:
         with:
           name: ${{ runner.os }} Build
           path: |
-            build/*.app/**/*
+            build/dmg_source_folder/*.app/**/*
             build/*.dmg
           include-hidden-files: true
