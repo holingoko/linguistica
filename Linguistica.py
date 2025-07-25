@@ -11,8 +11,8 @@ from src.log import log
 
 from src import state
 
-# settings.reset()  #!!!
-# state.reset()  #!!!
+settings.reset()  #!!!
+state.reset()  #!!!
 
 settings.message_class_to_choice = {"UnsavedFilesWarningMessage": 0}  # !!!
 # settings.dict_popup_show_on = settings.DictPopupShowOn.CLICK
@@ -42,7 +42,7 @@ settings.text_editor_font_family = "Cardo"
 settings.text_editor_font_size = 12
 
 settings.dict_font_family = "Cardo"
-settings.dict_font_size = 9
+settings.dict_font_size = 10
 
 
 def run():

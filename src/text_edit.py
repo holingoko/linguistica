@@ -307,7 +307,12 @@ class TextEdit(QWidget):
         )
         self._font_size = settings.text_editor_font_size
         self.setStyleSheet(
-            "QTextEdit {" f"    font-size: {self.font_size}pt;" "}"
+            "QTextEdit {"
+            f"    font-size: {self.font_size}pt;"
+            "}"
+            "DictViewTextEdit {"
+            f"    font-size: {settings.dict_font_size}pt;"
+            "}"
         )
         space_width = self.text_edit.fontMetrics().horizontalAdvance(" ")
         self.text_edit.setTabStopDistance(
