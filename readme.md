@@ -1,5 +1,5 @@
 ## Holingoko is a tool for language learners and translators:
-http://www.holingoko.github.io/linguistica.com
+https://holingoko.github.io/linguistica/
 ## Build From Source:
 Instructions below assume git and python (version >= 3.12) are installed.
 ### Windows:
