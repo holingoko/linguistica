@@ -38,3 +38,9 @@ Note that {} in translations indicates a word or phrase will be substituted in
 at runtime, and numbers within curly braces {0}, {1}, etc. indicate order of 
 substitutions. Order will likely need to be reversed for right-to-left languages.
 ## Add New Application Theme:
+
+Note that these are not normal Qt style sheets as they have been set up as 
+python format strings to allow the user to change the font independent of the 
+style. It is recommended to leave the font substitution lines unchanged.
+Otherwise, font choices made by the user in settings will be overridden by the 
+theme-specified font.
